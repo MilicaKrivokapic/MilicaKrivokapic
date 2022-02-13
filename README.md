@@ -7,7 +7,7 @@
 
 I 💖 front end!
 
-I'm a web dev from Finland who loves to make pretty pages on web. I fell in love with Next.js and Tailwind, also huge fan of React, and I look forward to trying out cool JS-libraries, such as Three.js. If you want to talk about JS libraries, coding in general or game scripts, feel free to message me in [LinkedIn](https://www.linkedin.com/in/milica-krivokapic/)!
+I'm a junior web dev from Finland who loves to make pretty pages on web. I fell in love with Next.js and Tailwind, also I'm a huge fan of React. I look forward to trying out cool JS-libraries, such as Three.js. If you want to talk about JS libraries, coding or really anything, feel free to message me in [LinkedIn](https://www.linkedin.com/in/milica-krivokapic/)!
 
 ---
 
@@ -16,7 +16,7 @@ I'm a web dev from Finland who loves to make pretty pages on web. I fell in love
 
 - 👀 I’m currently working on finding a job! So, if you have any suggestions, plz holla at me in [LinkedIn](https://www.linkedin.com/in/milica-krivokapic/)!
 - ✔️ I’m currently learning to be more efficient coder.
-- 💬 You can talk to me about everything, but I enjoy talking the most about coding, dogs and art.
+- 💬 You can talk to me about everything, but I enjoy talking the most about coding, games, art and pets/plants.
 - 🐕 Fun fact: I have a Shetland sheepdog.
 
 ---
