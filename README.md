@@ -3,7 +3,7 @@
 ## 𝙸'𝚖 𝙼𝚒𝚕𝚒𝚌𝚊, 𝚗𝚒𝚌𝚎 𝚝𝚘 𝚜𝚎𝚎 𝚢𝚘𝚞 𝚑𝚎𝚛𝚎!
 <br>
 
-I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" style="vertical-align: middle" /> building inclusive, accessible websites!  <img align="right" width="300" alt="GIF" src="milicakrivokapic/../flamingo.gif" />
+I <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" alt="Sparkling Heart" width="25" height="25" style="vertical-align: middle" /> building pretty but accessible websites!  <img align="right" width="300" alt="GIF" src="milicakrivokapic/../flamingo.gif" />
 
 I’m a junior front-end developer from Finland who cares deeply about accessibility and user experience.
 
@@ -15,7 +15,7 @@ I love exploring how thoughtful design, clean code, and accessibility testing co
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" /> [Check out ma portfolio!!](https://portfolio2025-delta-dusky.vercel.app/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" />
 
 - 👀 I’m currently working on finding a job! So, if you have any suggestions, plz holla at me in [LinkedIn](https://www.linkedin.com/in/milica-krivokapic/)!
-- ✔️ I’m learning to be more about lean processes and audits.
+- ✔️ I’m learning more about lean processes and audits.
 - 💬 You can talk to me about everything, but I enjoy talking the most about coding, [games](https://steamcommunity.com/id/milica), art and pets/plants! 
 - 🐕 Fun fact: I have a Shetland sheepdog.
 
