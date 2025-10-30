@@ -14,10 +14,10 @@ I love exploring how thoughtful design, clean code, and accessibility testing co
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" /> [Check out ma portfolio!!](https://portfolio2025-delta-dusky.vercel.app/) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" />
 
-- 👀 I’m currently working on finding a job! So, if you have any suggestions, plz holla at me in [LinkedIn](https://www.linkedin.com/in/milica-krivokapic/)!
-- ✔️ I’m learning more about lean processes and audits.
-- 💬 You can talk to me about everything, but I enjoy talking the most about coding, [games](https://steamcommunity.com/id/milica), art and pets/plants! 
-- 🐕 Fun fact: I have a Shetland sheepdog.
+-  I’m currently working on finding a job! So, if you have any suggestions, plz holla at me in [LinkedIn](https://www.linkedin.com/in/milica-krivokapic/)!
+-  I’m learning more about lean processes and audits.
+-  You can talk to me about everything, but I enjoy talking the most about coding, [games](https://steamcommunity.com/id/milica), art and pets/plants! 
+-  Fun fact: I have a Shetland sheepdog.
 
 ---
 
